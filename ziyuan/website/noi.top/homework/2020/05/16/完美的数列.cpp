@@ -2,13 +2,14 @@
 
 /*
 	Created: Sat May 16 17:30:26 2020
-	Last Change: Sat May 16 17:39:03 2020
+	Last Change: Sat May 16 17:51:01 2020
 	@author: Àîå«É­
 */
 
 #include <iostream>
 #include <vector>
 using namespace std;
+vector <int> v(1);
 int main() {
 	int n, m;
 	cin >> n >> m;
